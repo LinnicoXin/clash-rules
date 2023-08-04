@@ -10,9 +10,9 @@
 ;增强国外GFW：支持
 
 ;设置规则标志位
-ruleset=💗 香港,
-ruleset=💗 日本,
-ruleset=💗 美国,
+ruleset=💗 香港,https://raw.githubusercontent.com/LinnicoXin/clash-rules/main/rules/HK.list
+ruleset=💗 日本,https://raw.githubusercontent.com/LinnicoXin/clash-rules/main/rules/JP.list
+ruleset=💗 美国,https://raw.githubusercontent.com/LinnicoXin/clash-rules/main/rules/UM.list
 ruleset=🎯 全球直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/LocalAreaNetwork.list
 ruleset=🎯 全球直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/UnBan.list
 ruleset=🛑 广告拦截,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/BanAD.list
